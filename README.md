@@ -14,6 +14,7 @@ You will need an installation of python3 with `venv`.
 ```bash
 python3 -m venv .env
 source .env/bin/activate
+pip install -r requirements.txt
 python script.py
 ```
 
