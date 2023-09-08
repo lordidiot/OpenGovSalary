@@ -22,6 +22,12 @@ python script.py
 
 Here is a sample output, generated from data available on 31082023.
 
+### ⚠️ Disclaimer
+
+Doing a cursory look through the output, there do seem to be some inaccuracies (e.g. a senior engineer with a much lower compensation than others).
+Given that the senior engineer has much lower compensation than expected, it's likely that the other salaries are higher than the true amount.
+Therefore, please only think of this project as a proof-of-concept meant to explore the idea of uncovering the salaries, but not results you can fully trust.
+
 ```
 Found exact solution:
 
@@ -121,7 +127,3 @@ shawn: $52,020/year
 pallani: $50,607/year
 ```
 
-## ⚠️ Disclaimer
-
-Doing a cursory look through the output, there do seem to be some inaccuracies (e.g. a senior engineer with a much lower compensation than others).
-Therefore, please only think of this project as a proof-of-concept meant to explore the idea of uncovering the salaries, but not results you can fully trust.
